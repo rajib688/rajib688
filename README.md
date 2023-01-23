@@ -20,7 +20,6 @@ Skills: Asp .NET / MVC / Design Patterns / HTML / CSS / JavaScript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajib688)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib688&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajib688)  
 

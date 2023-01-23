@@ -5,14 +5,14 @@ I’m a software developer who is passionate about making professional websites.
 
 Skills: Asp .NET / MVC / Design Patterns / HTML / CSS / JavaScript.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib688&show_icons=true)  
+
 - 🔭 I’m currently working on Project. 
 - 🌱 I’m currently learning C# & Dot Net. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about  Software Development 
 - 📫 How to reach me: rajibhossen688@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajib688)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 

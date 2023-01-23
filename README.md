@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Rajib Rari
 
-Software Developer
-I’m a software developer who is passionate about making professional websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with ASP.NET MVC Core. I enjoy working with include Docker, AWS, Design Patterns, OOP and OOD.
+#Software Developer
 
-Skills: Asp.Net / JS /Docker/Aws/Design Patterns/Unit Testing/ HTML / CSS
+I’m a software developer who is passionate about making professional websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. Most of the time I work with ASP.NET MVC Core. I enjoy working with include MVC, Design Patterns, OOP and OOD.
 
-
+Skills: Asp.Net / MVC / Design Patterns / HTML / CSS.
 
 Here are some ideas to get you started:
 
